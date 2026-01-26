@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{70205D81-CA6D-4212-B892-8EDD7DC1DF51}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>event_management</RootNamespace>
+    <AssemblyName>hotel-management</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>nature.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup>
+    <Win32Resource>
+    </Win32Resource>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ApplicationHelper.cs" />
+    <Compile Include="FormAdministration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAdministration.Designer.cs">
+      <DependentUpon>FormAdministration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormBillingMG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBillingMG.Designer.cs">
+      <DependentUpon>FormBillingMG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormBookingMG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBookingMG.Designer.cs">
+      <DependentUpon>FormBookingMG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormClientBilling.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormClientBilling.Designer.cs">
+      <DependentUpon>FormClientBilling.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormClientBooking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormClientBooking.Designer.cs">
+      <DependentUpon>FormClientBooking.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormClientDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormClientDashboard.Designer.cs">
+      <DependentUpon>FormClientDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEmployeeMG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEmployeeMG.Designer.cs">
+      <DependentUpon>FormEmployeeMG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormForgotPass1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormForgotPass1.Designer.cs">
+      <DependentUpon>FormForgotPass1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormForgotPass2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormForgotPass2.Designer.cs">
+      <DependentUpon>FormForgotPass2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormClientHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormClientHistory.Designer.cs">
+      <DependentUpon>FormClientHistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogin.Designer.cs">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEventType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEventType.Designer.cs">
+      <DependentUpon>FormEventType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormVenueMG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormVenueMG.Designer.cs">
+      <DependentUpon>FormVenueMG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSetting.Designer.cs">
+      <DependentUpon>FormSetting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSignup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSignup.Designer.cs">
+      <DependentUpon>FormSignup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormClientMG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormClientMG.Designer.cs">
+      <DependentUpon>FormClientMG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FormAdministration.resx">
+      <DependentUpon>FormAdministration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBillingMG.resx">
+      <DependentUpon>FormBillingMG.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBookingMG.resx">
+      <DependentUpon>FormBookingMG.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormClientBilling.resx">
+      <DependentUpon>FormClientBilling.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormClientBooking.resx">
+      <DependentUpon>FormClientBooking.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormClientDashboard.resx">
+      <DependentUpon>FormClientDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEmployeeMG.resx">
+      <DependentUpon>FormEmployeeMG.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormForgotPass1.resx">
+      <DependentUpon>FormForgotPass1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormForgotPass2.resx">
+      <DependentUpon>FormForgotPass2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormClientHistory.resx">
+      <DependentUpon>FormClientHistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLogin.resx">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEventType.resx">
+      <DependentUpon>FormEventType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormVenueMG.resx">
+      <DependentUpon>FormVenueMG.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSetting.resx">
+      <DependentUpon>FormSetting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSignup.resx">
+      <DependentUpon>FormSignup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormClientMG.resx">
+      <DependentUpon>FormClientMG.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="nature.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

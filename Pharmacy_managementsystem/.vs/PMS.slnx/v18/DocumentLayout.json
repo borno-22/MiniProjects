@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ornob\\Desktop\\packages.zip\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF291769-A5B3-4260-B58E-944F0D609032}|PMS\\PMS.csproj|c:\\users\\ornob\\desktop\\packages.zip\\pms\\usercustomer\\orderpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF291769-A5B3-4260-B58E-944F0D609032}|PMS\\PMS.csproj|solutionrelative:pms\\usercustomer\\orderpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF291769-A5B3-4260-B58E-944F0D609032}|PMS\\PMS.csproj|c:\\users\\ornob\\desktop\\packages.zip\\pms\\usercustomer\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF291769-A5B3-4260-B58E-944F0D609032}|PMS\\PMS.csproj|solutionrelative:pms\\usercustomer\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF291769-A5B3-4260-B58E-944F0D609032}|PMS\\PMS.csproj|c:\\users\\ornob\\desktop\\packages.zip\\pms\\cussignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF291769-A5B3-4260-B58E-944F0D609032}|PMS\\PMS.csproj|solutionrelative:pms\\cussignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF291769-A5B3-4260-B58E-944F0D609032}|PMS\\PMS.csproj|c:\\users\\ornob\\desktop\\packages.zip\\pms\\usercustomer\\cusdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF291769-A5B3-4260-B58E-944F0D609032}|PMS\\PMS.csproj|solutionrelative:pms\\usercustomer\\cusdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF291769-A5B3-4260-B58E-944F0D609032}|PMS\\PMS.csproj|c:\\users\\ornob\\desktop\\packages.zip\\pms\\usercustomer\\browsecatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF291769-A5B3-4260-B58E-944F0D609032}|PMS\\PMS.csproj|solutionrelative:pms\\usercustomer\\browsecatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF291769-A5B3-4260-B58E-944F0D609032}|PMS\\PMS.csproj|c:\\users\\ornob\\desktop\\packages.zip\\pms\\usercustomer\\browsecatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF291769-A5B3-4260-B58E-944F0D609032}|PMS\\PMS.csproj|solutionrelative:pms\\usercustomer\\browsecatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF291769-A5B3-4260-B58E-944F0D609032}|PMS\\PMS.csproj|c:\\users\\ornob\\desktop\\packages.zip\\pms\\usercustomer\\ordermedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF291769-A5B3-4260-B58E-944F0D609032}|PMS\\PMS.csproj|solutionrelative:pms\\usercustomer\\ordermedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF291769-A5B3-4260-B58E-944F0D609032}|PMS\\PMS.csproj|c:\\users\\ornob\\desktop\\packages.zip\\pms\\usercustomer\\cusdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF291769-A5B3-4260-B58E-944F0D609032}|PMS\\PMS.csproj|solutionrelative:pms\\usercustomer\\cusdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF291769-A5B3-4260-B58E-944F0D609032}|PMS\\PMS.csproj|C:\\Users\\Ornob\\Desktop\\packages.zip\\pms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF291769-A5B3-4260-B58E-944F0D609032}|PMS\\PMS.csproj|solutionrelative:pms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 166,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CUsSignUP.cs",
+              "DocumentMoniker": "C:\\Users\\Ornob\\Desktop\\packages.zip\\PMS\\CUsSignUP.cs",
+              "RelativeDocumentMoniker": "PMS\\CUsSignUP.cs",
+              "ToolTip": "C:\\Users\\Ornob\\Desktop\\packages.zip\\PMS\\CUsSignUP.cs",
+              "RelativeToolTip": "PMS\\CUsSignUP.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAEUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T04:04:15.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "C:\\Users\\Ornob\\Desktop\\packages.zip\\PMS\\UserCustomer\\Settings.cs",
+              "RelativeDocumentMoniker": "PMS\\UserCustomer\\Settings.cs",
+              "ToolTip": "C:\\Users\\Ornob\\Desktop\\packages.zip\\PMS\\UserCustomer\\Settings.cs",
+              "RelativeToolTip": "PMS\\UserCustomer\\Settings.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAJkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T04:02:36.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderPayment.cs",
+              "DocumentMoniker": "C:\\Users\\Ornob\\Desktop\\packages.zip\\PMS\\UserCustomer\\OrderPayment.cs",
+              "RelativeDocumentMoniker": "PMS\\UserCustomer\\OrderPayment.cs",
+              "ToolTip": "C:\\Users\\Ornob\\Desktop\\packages.zip\\PMS\\UserCustomer\\OrderPayment.cs",
+              "RelativeToolTip": "PMS\\UserCustomer\\OrderPayment.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAAGYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T04:00:20.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderMedicine.cs",
+              "DocumentMoniker": "C:\\Users\\Ornob\\Desktop\\packages.zip\\PMS\\UserCustomer\\OrderMedicine.cs",
+              "RelativeDocumentMoniker": "PMS\\UserCustomer\\OrderMedicine.cs",
+              "ToolTip": "C:\\Users\\Ornob\\Desktop\\packages.zip\\PMS\\UserCustomer\\OrderMedicine.cs",
+              "RelativeToolTip": "PMS\\UserCustomer\\OrderMedicine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T04:00:04.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BrowseCatalog.cs",
+              "DocumentMoniker": "C:\\Users\\Ornob\\Desktop\\packages.zip\\PMS\\UserCustomer\\BrowseCatalog.cs",
+              "RelativeDocumentMoniker": "PMS\\UserCustomer\\BrowseCatalog.cs",
+              "ToolTip": "C:\\Users\\Ornob\\Desktop\\packages.zip\\PMS\\UserCustomer\\BrowseCatalog.cs",
+              "RelativeToolTip": "PMS\\UserCustomer\\BrowseCatalog.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T03:58:43.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BrowseCatalog.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ornob\\Desktop\\packages.zip\\PMS\\UserCustomer\\BrowseCatalog.cs",
+              "RelativeDocumentMoniker": "PMS\\UserCustomer\\BrowseCatalog.cs",
+              "ToolTip": "C:\\Users\\Ornob\\Desktop\\packages.zip\\PMS\\UserCustomer\\BrowseCatalog.cs [Design]",
+              "RelativeToolTip": "PMS\\UserCustomer\\BrowseCatalog.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T03:58:40.76Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CusDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Ornob\\Desktop\\packages.zip\\PMS\\UserCustomer\\CusDashboard.cs",
+              "RelativeDocumentMoniker": "PMS\\UserCustomer\\CusDashboard.cs",
+              "ToolTip": "C:\\Users\\Ornob\\Desktop\\packages.zip\\PMS\\UserCustomer\\CusDashboard.cs",
+              "RelativeToolTip": "PMS\\UserCustomer\\CusDashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T03:56:42.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CusDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ornob\\Desktop\\packages.zip\\PMS\\UserCustomer\\CusDashboard.cs",
+              "RelativeDocumentMoniker": "PMS\\UserCustomer\\CusDashboard.cs",
+              "ToolTip": "C:\\Users\\Ornob\\Desktop\\packages.zip\\PMS\\UserCustomer\\CusDashboard.cs [Design]",
+              "RelativeToolTip": "PMS\\UserCustomer\\CusDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T03:56:38.759Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ornob\\Desktop\\packages.zip\\PMS\\Program.cs",
+              "RelativeDocumentMoniker": "PMS\\Program.cs",
+              "ToolTip": "C:\\Users\\Ornob\\Desktop\\packages.zip\\PMS\\Program.cs",
+              "RelativeToolTip": "PMS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T16:06:57.47Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

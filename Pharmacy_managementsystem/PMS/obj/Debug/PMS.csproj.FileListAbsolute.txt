@@ -1,0 +1,123 @@
+C:\Users\DeeDee\source\repos\PMS\PMS\bin\Debug\PMS.exe.config
+C:\Users\DeeDee\source\repos\PMS\PMS\bin\Debug\PMS.exe
+C:\Users\DeeDee\source\repos\PMS\PMS\bin\Debug\PMS.pdb
+C:\Users\DeeDee\source\repos\PMS\PMS\obj\Debug\PMS.csproj.AssemblyReference.cache
+C:\Users\DeeDee\source\repos\PMS\PMS\obj\Debug\PMS.Properties.Resources.resources
+C:\Users\DeeDee\source\repos\PMS\PMS\obj\Debug\PMS.csproj.GenerateResource.cache
+C:\Users\DeeDee\source\repos\PMS\PMS\obj\Debug\PMS.csproj.CoreCompileInputs.cache
+C:\Users\DeeDee\source\repos\PMS\PMS\obj\Debug\PMS.exe
+C:\Users\DeeDee\source\repos\PMS\PMS\obj\Debug\PMS.pdb
+C:\Users\DeeDee\source\repos\PMS\PMS\obj\Debug\PMS.csproj.Up2Date
+C:\Users\DeeDee\source\repos\PMS\PMS\bin\Debug\Guna.UI2.dll
+C:\Users\DeeDee\source\repos\PMS\PMS\obj\Debug\PMS.LogIn.resources
+C:\Users\DeeDee\source\repos\PMS\PMS\obj\Debug\PMS.Admin.resources
+C:\Users\DeeDee\source\repos\PMS\PMS\obj\Debug\PMS.AdminUC.UC_Dashboard.resources
+C:\Users\DeeDee\source\repos\PMS\PMS\obj\Debug\PMS.AdminUC.UC_AddUser.resources
+C:\Users\DeeDee\source\repos\PMS\PMS\obj\Debug\PMS.AdminUC.UC_ViewUser.resources
+C:\Users\DeeDee\source\repos\PMS\PMS\obj\Debug\PMS.AdminUC.UC_Profile.resources
+C:\Users\DeeDee\source\repos\PMS\PMS\obj\Debug\PMS.Pharmacist.resources
+C:\Users\DeeDee\source\repos\PMS\PMS\obj\Debug\PMS.PharmacistUC.UC_P_Dashboard.resources
+C:\Users\DeeDee\source\repos\PMS\PMS\obj\Debug\PMS.PharmacistUC.UC_P_AddMedicine.resources
+C:\Users\DeeDee\source\repos\PMS\PMS\obj\Debug\PMS.PharmacistUC.UC_P_ViewMedicine.resources
+C:\Users\DeeDee\source\repos\PMS\PMS\obj\Debug\PMS.PharmacistUC.UC_P_UpdateMedicine.resources
+C:\Users\DeeDee\source\repos\PMS\PMS\obj\Debug\PMS.PharmacistUC.UC_P_MedicineValidityCheck.resources
+C:\Users\DeeDee\source\repos\PMS\PMS\obj\Debug\PMS.PharmacistUC.UC_P_SellMedicine.resources
+C:\Users\DeeDee\source\repos\PMS\PMS\obj\Debug\PMS.FrmCustomerInfo.resources
+C:\Users\DeeDee\source\repos\PMS\PMS\bin\Debug\PMS.exe.manifest
+C:\Users\DeeDee\source\repos\PMS\PMS\bin\Debug\PMS.application
+C:\Users\DeeDee\source\repos\PMS\PMS\obj\Debug\PMS.exe.manifest
+C:\Users\DeeDee\source\repos\PMS\PMS\obj\Debug\PMS.application
+D:\projects\c#\PMS\PMS\bin\Debug\PMS.exe.config
+D:\projects\c#\PMS\PMS\bin\Debug\PMS.exe.manifest
+D:\projects\c#\PMS\PMS\bin\Debug\PMS.application
+D:\projects\c#\PMS\PMS\bin\Debug\PMS.exe
+D:\projects\c#\PMS\PMS\bin\Debug\PMS.pdb
+D:\projects\c#\PMS\PMS\bin\Debug\Guna.UI2.dll
+D:\projects\c#\PMS\PMS\obj\Debug\PMS.csproj.AssemblyReference.cache
+D:\projects\c#\PMS\PMS\obj\Debug\PMS.Admin.resources
+D:\projects\c#\PMS\PMS\obj\Debug\PMS.AdminUC.UC_AddUser.resources
+D:\projects\c#\PMS\PMS\obj\Debug\PMS.AdminUC.UC_Dashboard.resources
+D:\projects\c#\PMS\PMS\obj\Debug\PMS.AdminUC.UC_Profile.resources
+D:\projects\c#\PMS\PMS\obj\Debug\PMS.AdminUC.UC_ViewUser.resources
+D:\projects\c#\PMS\PMS\obj\Debug\PMS.FrmCustomerInfo.resources
+D:\projects\c#\PMS\PMS\obj\Debug\PMS.LogIn.resources
+D:\projects\c#\PMS\PMS\obj\Debug\PMS.Pharmacist.resources
+D:\projects\c#\PMS\PMS\obj\Debug\PMS.PharmacistUC.UC_P_AddMedicine.resources
+D:\projects\c#\PMS\PMS\obj\Debug\PMS.PharmacistUC.UC_P_Dashboard.resources
+D:\projects\c#\PMS\PMS\obj\Debug\PMS.PharmacistUC.UC_P_MedicineValidityCheck.resources
+D:\projects\c#\PMS\PMS\obj\Debug\PMS.PharmacistUC.UC_P_SellMedicine.resources
+D:\projects\c#\PMS\PMS\obj\Debug\PMS.PharmacistUC.UC_P_UpdateMedicine.resources
+D:\projects\c#\PMS\PMS\obj\Debug\PMS.PharmacistUC.UC_P_ViewMedicine.resources
+D:\projects\c#\PMS\PMS\obj\Debug\PMS.Properties.Resources.resources
+D:\projects\c#\PMS\PMS\obj\Debug\PMS.csproj.GenerateResource.cache
+D:\projects\c#\PMS\PMS\obj\Debug\PMS.csproj.CoreCompileInputs.cache
+D:\projects\c#\PMS\PMS\obj\Debug\PMS.exe.manifest
+D:\projects\c#\PMS\PMS\obj\Debug\PMS.application
+D:\projects\c#\PMS\PMS\obj\Debug\PMS.csproj.Up2Date
+D:\projects\c#\PMS\PMS\obj\Debug\PMS.exe
+D:\projects\c#\PMS\PMS\obj\Debug\PMS.pdb
+E:\idm Download\Compressed\packages.zip\PMS\bin\Debug\PMS.exe.config
+E:\idm Download\Compressed\packages.zip\PMS\bin\Debug\PMS.exe.manifest
+E:\idm Download\Compressed\packages.zip\PMS\bin\Debug\PMS.application
+E:\idm Download\Compressed\packages.zip\PMS\bin\Debug\PMS.exe
+E:\idm Download\Compressed\packages.zip\PMS\bin\Debug\PMS.pdb
+E:\idm Download\Compressed\packages.zip\PMS\bin\Debug\Guna.UI2.dll
+E:\idm Download\Compressed\packages.zip\PMS\obj\Debug\PMS.csproj.AssemblyReference.cache
+E:\idm Download\Compressed\packages.zip\PMS\obj\Debug\PMS.Admin.resources
+E:\idm Download\Compressed\packages.zip\PMS\obj\Debug\PMS.AdminUC.UC_AddUser.resources
+E:\idm Download\Compressed\packages.zip\PMS\obj\Debug\PMS.AdminUC.UC_Dashboard.resources
+E:\idm Download\Compressed\packages.zip\PMS\obj\Debug\PMS.AdminUC.UC_Profile.resources
+E:\idm Download\Compressed\packages.zip\PMS\obj\Debug\PMS.AdminUC.UC_ViewUser.resources
+E:\idm Download\Compressed\packages.zip\PMS\obj\Debug\PMS.FrmCustomerInfo.resources
+E:\idm Download\Compressed\packages.zip\PMS\obj\Debug\PMS.LogIn.resources
+E:\idm Download\Compressed\packages.zip\PMS\obj\Debug\PMS.Pharmacist.resources
+E:\idm Download\Compressed\packages.zip\PMS\obj\Debug\PMS.PharmacistUC.UC_P_AddMedicine.resources
+E:\idm Download\Compressed\packages.zip\PMS\obj\Debug\PMS.PharmacistUC.UC_P_Dashboard.resources
+E:\idm Download\Compressed\packages.zip\PMS\obj\Debug\PMS.PharmacistUC.UC_P_MedicineValidityCheck.resources
+E:\idm Download\Compressed\packages.zip\PMS\obj\Debug\PMS.PharmacistUC.UC_P_SellMedicine.resources
+E:\idm Download\Compressed\packages.zip\PMS\obj\Debug\PMS.PharmacistUC.UC_P_UpdateMedicine.resources
+E:\idm Download\Compressed\packages.zip\PMS\obj\Debug\PMS.PharmacistUC.UC_P_ViewMedicine.resources
+E:\idm Download\Compressed\packages.zip\PMS\obj\Debug\PMS.Properties.Resources.resources
+E:\idm Download\Compressed\packages.zip\PMS\obj\Debug\PMS.csproj.GenerateResource.cache
+E:\idm Download\Compressed\packages.zip\PMS\obj\Debug\PMS.csproj.CoreCompileInputs.cache
+E:\idm Download\Compressed\packages.zip\PMS\obj\Debug\PMS.exe.manifest
+E:\idm Download\Compressed\packages.zip\PMS\obj\Debug\PMS.application
+E:\idm Download\Compressed\packages.zip\PMS\obj\Debug\PMS.csproj.Up2Date
+E:\idm Download\Compressed\packages.zip\PMS\obj\Debug\PMS.exe
+E:\idm Download\Compressed\packages.zip\PMS\obj\Debug\PMS.pdb
+C:\Users\Ornob\Desktop\packages.zip\PMS\bin\Debug\PMS.exe.config
+C:\Users\Ornob\Desktop\packages.zip\PMS\bin\Debug\PMS.exe.manifest
+C:\Users\Ornob\Desktop\packages.zip\PMS\bin\Debug\PMS.application
+C:\Users\Ornob\Desktop\packages.zip\PMS\bin\Debug\PMS.exe
+C:\Users\Ornob\Desktop\packages.zip\PMS\bin\Debug\PMS.pdb
+C:\Users\Ornob\Desktop\packages.zip\PMS\bin\Debug\Guna.UI2.dll
+C:\Users\Ornob\Desktop\packages.zip\PMS\obj\Debug\PMS.csproj.AssemblyReference.cache
+C:\Users\Ornob\Desktop\packages.zip\PMS\obj\Debug\PMS.Admin.resources
+C:\Users\Ornob\Desktop\packages.zip\PMS\obj\Debug\PMS.AdminUC.UC_AddUser.resources
+C:\Users\Ornob\Desktop\packages.zip\PMS\obj\Debug\PMS.AdminUC.UC_Dashboard.resources
+C:\Users\Ornob\Desktop\packages.zip\PMS\obj\Debug\PMS.AdminUC.UC_Profile.resources
+C:\Users\Ornob\Desktop\packages.zip\PMS\obj\Debug\PMS.AdminUC.UC_ViewUser.resources
+C:\Users\Ornob\Desktop\packages.zip\PMS\obj\Debug\PMS.FrmCustomerInfo.resources
+C:\Users\Ornob\Desktop\packages.zip\PMS\obj\Debug\PMS.LogIn.resources
+C:\Users\Ornob\Desktop\packages.zip\PMS\obj\Debug\PMS.Pharmacist.resources
+C:\Users\Ornob\Desktop\packages.zip\PMS\obj\Debug\PMS.PharmacistUC.UC_P_AddMedicine.resources
+C:\Users\Ornob\Desktop\packages.zip\PMS\obj\Debug\PMS.PharmacistUC.UC_P_Dashboard.resources
+C:\Users\Ornob\Desktop\packages.zip\PMS\obj\Debug\PMS.PharmacistUC.UC_P_MedicineValidityCheck.resources
+C:\Users\Ornob\Desktop\packages.zip\PMS\obj\Debug\PMS.PharmacistUC.UC_P_SellMedicine.resources
+C:\Users\Ornob\Desktop\packages.zip\PMS\obj\Debug\PMS.PharmacistUC.UC_P_UpdateMedicine.resources
+C:\Users\Ornob\Desktop\packages.zip\PMS\obj\Debug\PMS.PharmacistUC.UC_P_ViewMedicine.resources
+C:\Users\Ornob\Desktop\packages.zip\PMS\obj\Debug\PMS.Properties.Resources.resources
+C:\Users\Ornob\Desktop\packages.zip\PMS\obj\Debug\PMS.UserCustomer.CusDashboard.resources
+C:\Users\Ornob\Desktop\packages.zip\PMS\obj\Debug\PMS.csproj.GenerateResource.cache
+C:\Users\Ornob\Desktop\packages.zip\PMS\obj\Debug\PMS.csproj.CoreCompileInputs.cache
+C:\Users\Ornob\Desktop\packages.zip\PMS\obj\Debug\PMS.exe.manifest
+C:\Users\Ornob\Desktop\packages.zip\PMS\obj\Debug\PMS.application
+C:\Users\Ornob\Desktop\packages.zip\PMS\obj\Debug\PMS.csproj.Up2Date
+C:\Users\Ornob\Desktop\packages.zip\PMS\obj\Debug\PMS.exe
+C:\Users\Ornob\Desktop\packages.zip\PMS\obj\Debug\PMS.pdb
+C:\Users\Ornob\Desktop\packages.zip\PMS\obj\Debug\PMS.UserCustomer.BrowseCatalog.resources
+C:\Users\Ornob\Desktop\packages.zip\PMS\obj\Debug\PMS.UserCustomer.HistoryOrder.resources
+C:\Users\Ornob\Desktop\packages.zip\PMS\obj\Debug\PMS.UserCustomer.OrderMedicine.resources
+C:\Users\Ornob\Desktop\packages.zip\PMS\obj\Debug\PMS.UserCustomer.OrderPayment.resources
+C:\Users\Ornob\Desktop\packages.zip\PMS\obj\Debug\PMS.UserCustomer.Settings.resources
+C:\Users\Ornob\Desktop\packages.zip\PMS\obj\Debug\PMS.CUsSignUP.resources
